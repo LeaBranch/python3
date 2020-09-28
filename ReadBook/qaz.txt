@@ -1,0 +1,8 @@
+/home/elizaveta/Desktop/Python/ReadBook
+/home/elizaveta/Desktop/Python/ReadBook
+total 16
+-rw-rw-r-- 1 elizaveta elizaveta 106 сен  3 12:25 1.1.py
+-rw-rw-r-- 1 elizaveta elizaveta 106 сен  2 22:16 1(1).py
+-rw-rw-r-- 1 elizaveta elizaveta 106 дек 31  1979 1.py
+-rw-rw-r-- 1 elizaveta elizaveta   0 сен  3 12:36 dcd.txt
+-rw-rw-r-- 1 elizaveta elizaveta  80 сен  3 12:43 qaz.txt
